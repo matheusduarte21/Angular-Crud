@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "a",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1,
+      "comment": "21",
+      "date": "2023-10-01T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "maça",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "top",
+      "date": "2023-10-01T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "da",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 1,
+      "comment": "a",
+      "date": "2023-10-16T03:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
